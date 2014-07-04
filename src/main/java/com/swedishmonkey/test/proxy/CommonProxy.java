@@ -1,5 +1,4 @@
 package com.swedishmonkey.test.proxy;
 
-public class CommonProxy implements IProxy
-{
+public abstract class CommonProxy implements IProxy {
 }

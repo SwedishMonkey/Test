@@ -1,5 +1,4 @@
 package com.swedishmonkey.test.proxy;
 
-public class ClientProxy
-{
+public class ClientProxy extends CommonProxy {
 }
