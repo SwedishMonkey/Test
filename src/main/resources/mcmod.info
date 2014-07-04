@@ -1,0 +1,21 @@
+[
+{
+  "modid": "Test",
+  "name": "Test",
+  "description": "Just a Test",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "SwedishMonkey"
+  ],
+  "credits": "To myself",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
